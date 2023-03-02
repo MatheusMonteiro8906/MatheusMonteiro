@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:pablomonteiro777@gmail.com" alt="Gmail">
+  <a href="mailto:monteiromatheus047@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=monteiromatheus047@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/matheus-monteiro-7a7340200/" alt="Linkedin">
