@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Matheus Monteiro, atualmente estudo .NET e Angular.<br>
+  Meu nome é Matheus Monteiro, atualmente estudo .NET, Angular e React.<br>
   Sempre buscando aprender um pouco mais de tudo.
 </p>
 
 <p align="left">
- ⚒️ Linguagens: <strong>C#, Javascript, Angular framework</strong>
+ ⚒️ Linguagens: <strong>C#, Javascript, Angular framework, React</strong>
 </p>
 
 <p align="left">
